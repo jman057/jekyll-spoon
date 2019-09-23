@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Another title"
+title: "Yet Another bloody title!"
 ---
 
 some content here!
